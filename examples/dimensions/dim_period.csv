@@ -1,0 +1,6 @@
+﻿period_key,period_type,report_year,report_period,report_month,report_quarter,quarter_of_year,period_start,year_month,year_quarter
+Q|2021Q1,quarterly,2021,2021Q1,13,1,1,2021-01-01,13,2021Q1
+Q|2021Q2,quarterly,2021,2021Q2,13,2,2,2021-04-01,13,2021Q2
+Q|2021Q3,quarterly,2021,2021Q3,13,3,3,2021-07-01,13,2021Q3
+Q|2021Q4,quarterly,2021,2021Q4,13,4,4,2021-10-01,13,2021Q4
+Q|2022Q1,quarterly,2022,2022Q1,13,1,1,2022-01-01,13,2022Q1
