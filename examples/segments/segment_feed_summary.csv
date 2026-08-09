@@ -1,0 +1,6 @@
+﻿dataset,period_key,period_type,report_year,report_period,segment_origin_airport,segment_destination_airport,segment_airport_market,segment_passengers,known_od_feed_passengers,od_feed_coverage_pct,od_market_count,leader_od_city_market,leader_od_feed_share_total,leader_od_feed_share_known,od_feed_hhi_known,top3_od_feed_share_known
+segments,Q|2024Q4,quarterly,2024,2024Q4,PBI,DCA,PBI-DCA,5137,5137,1,93,30852-30852,0.353513723963403,0.353513723963403,0.296598791705668,0.930309519174616
+segments,Q|2024Q4,quarterly,2024,2024Q4,PHL,MYR,PHL-MYR,1334,1334,1,80,34100-34100,0.43328335832084,0.43328335832084,0.264318740180135,0.804347826086957
+segments,Q|2024Q4,quarterly,2024,2024Q4,PHX,JFK,PHX-JFK,10809,10809,1,189,31703-31703,0.34804329725229,0.34804329725229,0.26027075859566,0.869923212138033
+segments,Q|2024Q4,quarterly,2024,2024Q4,RAP,BIS,RAP-BIS,10,10,1,9,31703-31703,0.2,0.2,0.12,0.4
+segments,Q|2024Q4,quarterly,2024,2024Q4,ROA,RDU,ROA-RDU,8,8,1,7,30397-30397,0.25,0.25,0.15625,0.5

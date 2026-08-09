@@ -1,0 +1,6 @@
+﻿dataset,period_key,period_type,report_year,report_period,origin_city_market,destination_city_market,od_city_market,passenger_segments,segment_passenger_distance,physical_segment_count,primary_segment_airport_market,primary_segment_mix_share,segment_mix_hhi
+segments,Q|2023Q2,quarterly,2023,2023Q2,34614,34614,34614-34614,191212,186863614,3474,DEN-SLC,0.0311172938936887,0.0114614069323628
+segments,Q|2023Q2,quarterly,2023,2023Q2,34614,35550,34614-35550,6,5394,2,ATL-VLD,0.5,0.5
+segments,Q|2023Q2,quarterly,2023,2023Q2,34674,30466,34674-30466,39,17179,8,SAF-PHX,0.82051282051282,0.67784352399737
+segments,Q|2023Q2,quarterly,2023,2023Q2,34685,33728,34685-33728,40,11913,6,ATL-PNS,0.275,0.2325
+segments,Q|2023Q2,quarterly,2023,2023Q2,34689,30466,34689-30466,207,89152,23,SBA-PHX,0.584541062801932,0.380802352446965

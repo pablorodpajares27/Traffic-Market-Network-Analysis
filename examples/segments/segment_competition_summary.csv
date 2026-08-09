@@ -1,0 +1,6 @@
+﻿dataset,period_key,period_type,report_year,report_period,segment_origin_airport,segment_destination_airport,segment_airport_market,segment_passengers,marketing_carrier_total_passengers,known_marketing_carrier_passengers,marketing_carrier_coverage_pct,leader_marketing_carrier,leader_marketing_share_known,num_marketing_carriers,marketing_hhi_known,top3_marketing_share_known,operating_carrier_total_passengers,known_operating_carrier_passengers,operating_carrier_coverage_pct,leader_operating_carrier,leader_operating_share_known,num_operating_carriers,operating_hhi_known,top3_operating_share_known
+segments,Q|2021Q3,quarterly,2021,2021Q3,BOS,HNL,BOS-HNL,1316,1316,1316,1,HA,0.949848024316109,2,0.904726489962214,1,1316,1316,1,HA,1,1,1,1
+segments,Q|2021Q3,quarterly,2021,2021Q3,BUR,AZA,BUR-AZA,227,227,227,1,XP,1,1,1,1,227,227,1,XP,1,1,1,1
+segments,Q|2021Q3,quarterly,2021,2021Q3,BUR,BZN,BUR-BZN,376,376,376,1,XP,0.997340425531915,2,0.994694997736532,1,376,376,1,XP,0.997340425531915,2,0.994694997736532,1
+segments,Q|2021Q3,quarterly,2021,2021Q3,BUR,STL,BUR-STL,14,14,14,1,WN,1,1,1,1,14,14,1,WN,1,1,1,1
+segments,Q|2021Q3,quarterly,2021,2021Q3,BWI,HDN,BWI-HDN,2,2,2,1,WN,1,1,1,1,2,2,1,WN,1,1,1,1
