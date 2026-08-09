@@ -1,0 +1,6 @@
+﻿dataset,period_key,period_type,report_year,report_period,origin_city_market,destination_city_market,od_city_market,purchase_window_total_passengers,known_purchase_window_passengers,purchase_window_known_share,purchase_window_2190_share,purchase_window_2190_avg_fare,purchase_window_21ap_share,purchase_window_21ap_avg_fare,purchase_window_2290_share,purchase_window_2290_avg_fare,purchase_window_91up_share,purchase_window_91up_avg_fare
+itineraries,M|2025-12,monthly,2025,2025-12,34524,33184,34524-33184,3,3,1,0,13,1,503.513333333333,0,13,0,13
+itineraries,M|2025-07,monthly,2025,2025-07,34570,31703,34570-31703,1276,1276,1,0,13,0.471003134796238,374.670332778702,0.378526645768025,275.120724637681,0.150470219435737,320.865052083333
+itineraries,M|2025-07,monthly,2025,2025-07,34653,32559,34653-32559,1,1,1,0,13,1,332.68,0,13,0,13
+itineraries,M|2025-11,monthly,2025,2025-11,34711,32323,34711-32323,5,5,1,0,13,0.4,426.28,0.4,441.69,0.2,509.18
+itineraries,M|2025-09,monthly,2025,2025-09,34783,30434,34783-30434,5,5,1,0,13,0.6,417.85,0.4,350.86,0,13

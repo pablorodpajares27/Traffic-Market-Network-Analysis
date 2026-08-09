@@ -1,0 +1,6 @@
+﻿dataset,origin_city_market,destination_city_market,od_city_market,quarter_of_year,avg_quarter_passengers,seasonality_index,observations,peak_quarter,seasonality_volatility
+itineraries,30868,35138,30868-35138,2,1,1,1,1,0
+itineraries,30894,30325,30894-30325,1,3.75,1.25523012552301,4,1,0.21182460349535
+itineraries,30894,30325,30894-30325,2,3.2,1.07112970711297,5,1,0.21182460349535
+itineraries,30894,30325,30894-30325,4,3,1.00418410041841,4,1,0.21182460349535
+itineraries,30894,30325,30894-30325,3,2,0.669456066945607,4,1,0.21182460349535
