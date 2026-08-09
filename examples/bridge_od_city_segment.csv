@@ -1,0 +1,6 @@
+﻿dataset,period_key,period_type,report_year,report_period,report_month,report_quarter,period_start,origin_city_market,destination_city_market,od_city_market,od_city_market_bidirectional,segment_origin_airport,segment_destination_airport,segment_airport_market,segment_airport_market_bidirectional,segment_passengers,segment_passenger_distance,segment_mix_share_within_od,od_feed_share_within_segment
+segments,M|2025-07,monthly,2025,2025-07,7,13,2025-07-01,30792,33830,30792-33830,30792-33830,PHX,OGG,PHX-OGG,OGG-PHX,2,5688,0.0317460317460317,0.000467180565288484
+segments,M|2025-07,monthly,2025,2025-07,7,13,2025-07-01,33244,33244,33244-33244,33244-33244,PHX,OGG,PHX-OGG,OGG-PHX,15,42660,0.00014879181049875,0.00350385423966363
+segments,M|2025-07,monthly,2025,2025-07,7,13,2025-07-01,31641,33830,31641-33830,31641-33830,PHX,OGG,PHX-OGG,OGG-PHX,1,2844,0.333333333333333,0.000233590282644242
+segments,M|2025-07,monthly,2025,2025-07,7,13,2025-07-01,30977,33830,30977-33830,30977-33830,PHX,OGG,PHX-OGG,OGG-PHX,55,156420,0.0712435233160622,0.0128474655454333
+segments,M|2025-07,monthly,2025,2025-07,7,13,2025-07-01,30436,33830,30436-33830,30436-33830,PHX,OGG,PHX-OGG,OGG-PHX,10,28440,0.0961538461538462,0.00233590282644242
